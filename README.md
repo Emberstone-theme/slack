@@ -4,6 +4,10 @@
 	Emberstone for Slack
 </h1>
 
+## 🚧 Alpha Stage Notice
+
+**Emberstone is currently in its ALPHA phase.** This means the themes are still in development, and we are actively iterating on design, color palettes, and compatibility. Contributions and feedback are highly appreciated as we work towards our first stable release.
+
 ## Installation
 
 1. Click your profile picture (in the bottom left)
