@@ -4,15 +4,20 @@
 	Emberstone for Slack
 </h1>
 
-## 🚧 Alpha Stage Notice
-
-**Emberstone is currently in its ALPHA phase.** This means the themes are still in development, and we are actively iterating on design, color palettes, and compatibility. Contributions and feedback are highly appreciated as we work towards our first stable release.
+<div align="center">
+  <img src="./preview.png" width="500" align="center"/>
+</div>
 
 ## Installation
 
 1. Click your profile picture (in the bottom left)
-2. Go to `Preferences` → `Themes`.
-3. Copy this string : `#242835,#D88349,#9BBA51,#CAA53E`
+2. Go to `Preferences` → `Themes`
+3. Copy this string :
+
+```text
+#242835,#D88349,#9BBA51,#CAA53E
+```
+
 4. Paste the string into the `Import theme` field
 
 <hr/>
