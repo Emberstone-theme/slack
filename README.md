@@ -12,7 +12,7 @@
 
 1. Click your profile picture (in the bottom left)
 2. Go to `Preferences` → `Themes`.
-3. Copy this string : `#2B2F3A,#BD4C1B,#9BBA51,#CAA53E`
+3. Copy this string : `#242835,#D88349,#9BBA51,#CAA53E`
 4. Paste the string into the `Import theme` field
 
 <hr/>
